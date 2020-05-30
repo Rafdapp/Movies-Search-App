@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import SearchMovies from "./SearchMovies";
 import * as serviceWorker from './serviceWorker';
+import SearchMovie from './SearchMovies';
 
 ReactDOM.render(
   <React.StrictMode>
